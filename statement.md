@@ -1,11 +1,11 @@
-# Welcome!
+# Backwards
 
-This Bash template lets you get started quickly with a simple one-page playground.
+Run the command. Whatever you type will print in reverse.
 
 ```bash runnable
-echo "Hello World!"
+rev
 ```
 
-# Advanced usage
+# Amie's In-Game Hint
 
-If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
+Run the command. Whatever you type will print in reverse.
